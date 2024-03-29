@@ -1,5 +1,5 @@
 import logo from '../assets/logo.png'
-import '../styles/Banner.css'
+import '../styles/banner.css'
 
 function Banner() {
     return (
@@ -9,9 +9,5 @@ function Banner() {
         </div>
     )
 }
-
-<div className="lmj-banner">
-    <h1>La maison jungle</h1>
-</div>
 
 export default Banner
