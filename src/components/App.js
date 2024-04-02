@@ -1,7 +1,10 @@
-import Banner from './banner.js'
+import Banner from './banner'
+import Cart from './Cart'
 
 function App() {
-  return <Banner/>
+  return (
+    <div><Banner/><Cart/></div>
+  )
 }
 
 
