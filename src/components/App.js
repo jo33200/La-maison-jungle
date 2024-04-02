@@ -1,9 +1,10 @@
 import Banner from './banner'
 import Cart from './Cart'
+import ShoppingList from './ShoppingList'
 
 function App() {
   return (
-    <div><Banner/><Cart/></div>
+    <div><Banner/><Cart/><ShoppingList/></div>
   )
 }
 
